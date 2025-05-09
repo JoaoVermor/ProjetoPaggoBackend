@@ -1,9 +1,9 @@
 {
-    "version": 2,
-    "routes": [
-      {
-        "src": "/(.*)",
-        "dest": "src/main.ts"
-      }
-    ]
-  }
+  "version": 2,
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "src/main.ts"
+    }
+  ]
+}
